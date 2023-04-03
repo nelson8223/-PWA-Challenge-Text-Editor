@@ -27,9 +27,10 @@ const todosDb = await openDB('todos', 1);
 // TODO: Add logic for a method that gets all the content from the database
 
 
-export const getDb = async () => console.error('getDb not implemented');
+export const getDb = async () => { console.error('getDb not implemented');
 const request = store.getAll();
-
-
+const result = await request;
+return result
+}
 
 initdb();
