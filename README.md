@@ -1,30 +1,30 @@
 ### -PWA-Challenge-Text-Editor
 
 ### Table of Contents
-##Installation
-##Usage
-##Contributing
-##License
-##Installation
+##I nstallation
+## Usage
+## Contributing
+## License
+## Installation
 
-###Installation
+### Installation
 This project was installed using NPM and utilizes JSON and Express.
 
-###Usage
+### Usage
 ![image](https://user-images.githubusercontent.com/113787078/230260563-32109208-a911-4ede-b3d8-6f153f04e01a.png)
 
 
-###Contributing
+### Contributing
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-###License
+### License
 No license used for this project 
 
-###Credits
+### Credits
 Created by Orlando Nelson 
 
-###Contact
+### Contact
 
 https://github.com/nelson8223/-PWA-Challenge-Text-Editor/edit/main
