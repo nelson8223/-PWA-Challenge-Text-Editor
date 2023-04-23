@@ -11,7 +11,7 @@
 This project was installed using NPM and utilizes JSON and Express.
 
 ### Usage
-![image](https://user-images.githubusercontent.com/113787078/230260563-32109208-a911-4ede-b3d8-6f153f04e01a.png)
+![image](https://user-images.githubusercontent.com/113787078/233867339-dcd9e86d-610a-4923-9d72-d0ccd0134a62.png)
 
 
 ### Contributing
